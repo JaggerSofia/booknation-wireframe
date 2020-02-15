@@ -9,6 +9,15 @@ header {
     flex: 1 1;
 }
 
+img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1 1;
+    padding: 50px;
+    max-width: 600px;
+}
+
 button {
     padding: 10px 20px;
     margin: auto;
