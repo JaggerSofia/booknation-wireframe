@@ -10,12 +10,15 @@ header {
 }
 
 img {
+    max-width: 600px;
+}
+
+.image {
     display: flex;
     justify-content: center;
     align-items: center;
     flex: 1 1;
     padding: 50px;
-    max-width: 600px;
 }
 
 button {
